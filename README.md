@@ -25,3 +25,9 @@ These three new options would be in the same dialog box that asks for access to 
 ## First Screenshot
 
 ![Screenshot Home Screen](https://user-images.githubusercontent.com/32029236/107114335-152dd480-688b-11eb-9a71-437cbab0c11b.jpg)
+
+
+## Second Screenshot
+
+![Screenshot Background](https://user-images.githubusercontent.com/32029236/107114371-4ad2bd80-688b-11eb-9516-06c0078c877c.jpg)
+
