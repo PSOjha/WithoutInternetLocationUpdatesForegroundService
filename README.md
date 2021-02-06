@@ -8,3 +8,7 @@ Starting with Android Q, users will get a new option to permit only when the app
 
 Android Q provides 3 options to the users for accessing location –
 
+![App Permission]
+(https://user-images.githubusercontent.com/32029236/107114193-0c88ce80-688a-11eb-947a-d1578662c6df.jpg)
+
+
