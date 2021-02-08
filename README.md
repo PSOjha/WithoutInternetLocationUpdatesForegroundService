@@ -25,9 +25,9 @@ These three new options would be in the same dialog box that asks for access to 
 ##### Checking Location Latitude Longitude values in Logcat
 ![Checking Location Latitude Longitude values in Logcat](https://user-images.githubusercontent.com/32029236/107180812-8a221b00-69ff-11eb-942b-021c5b5a6c6f.PNG)
 
-## First Screenshot
+#### First Screenshot
 <img src="screenshot/Home screen.jpg" width="200">
 
-## Second Screenshot
+#### Second Screenshot
 <img src="screenshot/Foreground Screen.jpg" width="200">
 
