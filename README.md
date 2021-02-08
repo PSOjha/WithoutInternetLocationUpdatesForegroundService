@@ -22,14 +22,14 @@ These three new options would be in the same dialog box that asks for access to 
 ### Below Are The Screenshot 
 ### Output
 
-## On Android Studio's Logcat  
+#### On Android Studio's Logcat  
+##### Checking Location Latitude Longitude values in Logcat
+![Checking Location Latitude Longitude values in Logcat](https://user-images.githubusercontent.com/32029236/107180812-8a221b00-69ff-11eb-942b-021c5b5a6c6f.PNG)
 
 ## First Screenshot
-
 ![Screenshot Home Screen](https://user-images.githubusercontent.com/32029236/107114335-152dd480-688b-11eb-9a71-437cbab0c11b.jpg)
 
 
 ## Second Screenshot
-
 ![Screenshot Background](https://user-images.githubusercontent.com/32029236/107114371-4ad2bd80-688b-11eb-9516-06c0078c877c.jpg)
 
