@@ -8,8 +8,7 @@ Starting with Android Q, users will get a new option to permit only when the app
 
 Android Q provides 3 options to the users for accessing location –
 
-![App Permission](https://user-images.githubusercontent.com/32029236/107114193-0c88ce80-688a-11eb-947a-d1578662c6df.jpg)
-
+ <img src="screenshot/privacy.jpg" width="200">
 
 All the time  –  app can access location at any time
 
@@ -27,9 +26,8 @@ These three new options would be in the same dialog box that asks for access to 
 ![Checking Location Latitude Longitude values in Logcat](https://user-images.githubusercontent.com/32029236/107180812-8a221b00-69ff-11eb-942b-021c5b5a6c6f.PNG)
 
 ## First Screenshot
-![Screenshot Home Screen](https://user-images.githubusercontent.com/32029236/107114335-152dd480-688b-11eb-9a71-437cbab0c11b.jpg)
-
+<img src="screenshot/Home screen.jpg" width="200">
 
 ## Second Screenshot
-![Screenshot Background](https://user-images.githubusercontent.com/32029236/107114371-4ad2bd80-688b-11eb-9516-06c0078c877c.jpg)
+<img src="screenshot/Foreground Screen.jpg" width="200">
 
