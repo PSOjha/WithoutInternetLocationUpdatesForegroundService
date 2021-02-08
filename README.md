@@ -8,7 +8,9 @@ Starting with Android Q, users will get a new option to permit only when the app
 
 Android Q provides 3 options to the users for accessing location –
 
- <img src="screenshot/privacy.jpg" width="200">
+| Permission                               |                                    
+:------------------------------------------:
+| <img src="screenshot/privacy.jpg" width="250">|
 
 All the time  –  app can access location at any time
 
